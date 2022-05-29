@@ -1,4 +1,4 @@
 # First React Project
 
 ## Sample
-(images/firstreact-home.png)
+![Screenshot](firstreact-home.png)
