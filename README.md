@@ -1,3 +1,4 @@
 # First React Project
 
-(firstreact-home.png)
+## Sample
+(images/firstreact-home.png)
