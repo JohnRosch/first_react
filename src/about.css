@@ -1,0 +1,20 @@
+.container-about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.abt-title {
+    text-align: center;
+}
+.abt-left {
+    text-align: justify;
+    margin-top: 3%;
+}
+
+.abt-hero {
+    height: 75vh;
+    margin-top: 3%;
+    width: 50vw;
+
+}

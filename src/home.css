@@ -1,0 +1,59 @@
+body {
+    box-sizing: border-box;
+    
+}
+
+.container {
+    margin-top: 8%;
+    margin-left: -10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.left-side {
+    flex-direction: column;
+}
+
+.background{
+    position: absolute;
+    z-index: -5;
+    height: 50%;
+    margin-left: -10%;
+}
+
+.hero {
+    margin-top: 30%;
+    margin-left: 60%;
+}
+
+.title-1 {
+    color: olivedrab;
+    font-size: 1.5rem;
+}
+
+.title-2 {
+    color: rgb(138, 190, 32) ;
+    margin-top: -5%;
+    font-size: 3rem;
+}
+
+.btn-cont{
+    display: flex;
+    margin-top: 10%;
+}
+
+.btn-1 {
+    margin-right: 3%;
+    height: 40px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+
+.btn-2 {
+    margin-right: 3%;
+    cursor: pointer;
+    font-weight: 700;
+}
